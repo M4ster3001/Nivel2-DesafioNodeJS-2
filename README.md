@@ -4,5 +4,5 @@
   - rodar as migrations [x]
  - criar transactions [x]
  - listar todas as transactions com o balance [x]
- - deletar transactions []
- - importar files .csv []
+ - deletar transactions [x]
+ - importar files .csv [x]
